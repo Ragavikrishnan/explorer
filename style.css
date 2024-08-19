@@ -1,0 +1,161 @@
+body{
+    background-color:#FCF8F3    ;
+    color:#914F1E;
+    
+    }
+div{
+    display: inline-block;
+}
+#exp{
+    font-size:2rem;
+    margin:20px;
+    display: inline;
+    list-style:none;
+    margin-right:900px;
+    margin-left: 10px;
+    font-family: "Merriweather", serif;
+}
+.hotel{
+    display:inline;
+    list-style:none;
+    margin-right:40px;
+    
+   
+}
+.line{
+    text-decoration:none;
+    color:#914F1E;
+}
+.tab{
+   margin-left:auto;
+   margin-right:auto;
+   text-align: center;
+   margin-top:50px;
+   margin-bottom: 30px;
+  border-spacing:0;
+  
+
+}
+.tab td{
+    padding:60px;
+}
+#he{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+#she{
+    font-size: 3rem;
+    color:#6C3428;
+    font-family: "DM Serif Text", serif;
+}
+#places-to-visit{
+    height: 40px;
+    width:500px;
+}
+.button{
+    background-color:#800000; 
+            
+            color: white;
+            padding: 10px 20px;
+            text-align:left;
+            
+            border:none;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 8px;
+           
+}
+.i{
+    
+    display: inline-block;
+    width:31.1111111112%;
+    margin:1%;
+    
+
+}
+.ano{
+    margin:20px;
+}
+.destination{
+    margin-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#another{
+    font-size: 1.5rem;
+    color:#800000;
+    font-family: "Merriweather", serif;
+    
+}
+.ing1{
+    width:400px;
+    height: 300px;
+    margin-right:80px
+}
+.para1{
+    display:inline-block;
+    margin-right:70px;
+    font-size:1.5rem;
+   margin-bottom: 10px;
+    text-align: left;
+    font-family: "Merriweather", serif;
+    
+}
+.place1{
+
+    margin-right:70px;
+    font-size:1rem;
+    letter-spacing: 1px;
+    text-align:left;
+    font-weight: bold;
+    color:#800000;
+
+}
+.para2{
+    display:inline-block;
+    margin-right:70px;
+    font-size:1.1rem;
+   margin-bottom: 10px;
+    text-align: left;
+}
+.div2{
+    background-color:#DCA47C;
+    text-align: center;
+    padding:30px;
+}
+#arrange{
+    text-align: left;
+}
+.form{
+    margin:20px;
+    font-size: 1.5rem;
+    margin-left:0px;
+    color:#800000;
+
+}
+.inp{
+    margin:20px;
+    margin-left:0px;
+    width:600px;
+    height:40px;
+}
+#contact{
+    font-size:50px;
+    margin-bottom: 20px;
+    color:#800000;
+}
+#our{
+    font-size:20px ;
+    margin-bottom: 40px;
+    font-family: "Merriweather", serif;
+}
+.align{
+    text-align: left;
+}
+.travel{
+    background-color:#DCA47C;
+}
+
+
+
